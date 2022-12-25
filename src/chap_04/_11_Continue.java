@@ -42,7 +42,7 @@ public class _11_Continue {
             }
             sold++; // 판매 처리
             if (sold == max){
-                System.out.println("금을 재료가 모두 소진되었습니다.");
+                System.out.println("금일 재료가 모두 소진되었습니다.");
                 break;
             }
         }
