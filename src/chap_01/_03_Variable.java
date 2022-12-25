@@ -25,5 +25,6 @@ public class _03_Variable {
         long l = 1000000000000l; // long: int 보다 더 큰 정수형의 범위 가짐
         l = 1_000_000_000_000l;
         System.out.println(l);
+        //커밋한게 어디간거니...?
     }
 }

@@ -17,5 +17,6 @@ public class _05_Operator5 {
 
         String s = (x != y)?"달라요":"같아요";
         System.out.println(s);
+        //커밋한게 어디간거니...?
     }
 }

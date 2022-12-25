@@ -59,5 +59,7 @@ public class _04_SwitchCase {
         } else if (score >= 80) {
             System.out.println("B");
         }
+
+        //커밋한게 어디간거니...?
     }
 }

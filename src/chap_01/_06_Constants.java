@@ -8,6 +8,6 @@ public class _06_Constants {
 
         final double PI = 3.141592; // 원주율
         final String DATE_OF_BIRTH = "2001-12-01"; // 생년월일
-
+        //커밋한게 어디간거니...?
     }
 }

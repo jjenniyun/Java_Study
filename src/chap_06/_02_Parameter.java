@@ -26,5 +26,6 @@ public class _02_Parameter {
         powerByExp(2,3); // 2* 2* 2 = 8
         powerByExp(3,3); // 3* 3* 3 = 27
         powerByExp(10,0); // 1
+        //커밋한게 어디간거니...?
     }
 }

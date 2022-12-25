@@ -26,5 +26,7 @@ public class _05_Overloading {
         System.out.println(getPower(3)); // 3* 3 =9
         System.out.println(getPower("4")); // 4* 4 = 16
         System.out.println(getPower(3,3)); // 3 * 3 * 3= 27
+
+        //커밋한게 어디간거니...?
     }
 }

@@ -46,5 +46,6 @@ public class _07_TypeCasting {
         System.out.println(d); // 98.8
 
         //int error = Integer.parseInt("자바");
+        //커밋한게 어디간거니...?
     }
 }

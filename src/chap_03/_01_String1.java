@@ -21,5 +21,7 @@ public class _01_String1 {
         System.out.println(s.lastIndexOf("and")); // 마지막 일치하는 위치 정보
         System.out.println(s.startsWith("I like")); // 이 문자열로 시작하면 true (아니면 false)
         System.out.println(s.endsWith(".")); // 이 문자열로 끝나면 true (아니면 false)
+
+        //커밋한게 어디간거니...?
     }
 }

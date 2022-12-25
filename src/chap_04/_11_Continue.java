@@ -47,5 +47,7 @@ public class _11_Continue {
             }
         }
         System.out.println("영업을 종료합니다.");
+
+        //커밋한게 어디간거니...?
     }
 }

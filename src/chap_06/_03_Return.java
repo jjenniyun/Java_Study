@@ -24,5 +24,6 @@ public class _03_Return {
         System.out.println("호텔 주소 : "+ address);
 
         System.out.println("호텔 액티비티 : "+getActivity());
+        //커밋한게 어디간거니...?
     }
 }

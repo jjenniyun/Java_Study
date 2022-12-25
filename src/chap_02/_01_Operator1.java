@@ -65,5 +65,6 @@ public class _01_Operator1 {
         System.out.println("대기 인원 : "+ wait++); // 대기인원 : 1
         System.out.println("대기 인원 : "+ wait++); // 대기인원 : 2
         System.out.println("총 대기 인원 : "+wait); // 총 대기 인원 : 3
+        //커밋한게 어디간거니...?
     }
 }

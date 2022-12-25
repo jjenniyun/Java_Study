@@ -11,5 +11,7 @@ public class _06_While {
             move += 3; // 3미터 이동
         }
         System.out.println("도착하였습니다");
+
+        //커밋한게 어디간거니...?
     }
 }

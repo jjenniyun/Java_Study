@@ -20,5 +20,7 @@ public class _03_StringCompare {
         s2 = new String("1234");
         System.out.println(s1.equals(s2)); // true
         System.out.println(s1 == s2); // false
+
+        //커밋한게 어디간거니...?
     }
 }

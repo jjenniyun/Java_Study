@@ -20,5 +20,6 @@ public class _Quiz_01 {
         System.out.println(busNo+"번 버스");
         System.out.println("약 "+minute+"분 후 도착");
         System.out.println("남은 거리 "+dis+"km");
+        //커밋한게 어디간거니...?
     }
 }

@@ -32,5 +32,7 @@ public class _07_DoWhile {
             move += 3;
         }while (move+height<dis);
         System.out.println("도착했습니다");
+
+        //커밋한게 어디간거니...?
     }
 }

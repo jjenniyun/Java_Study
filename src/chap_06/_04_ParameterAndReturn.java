@@ -26,5 +26,7 @@ public class _04_ParameterAndReturn {
 
         System.out.println(getPowerByExp(2,4)); // 16
         System.out.println(getPowerByExp(5, 2)); // 25
+
+        //커밋한게 어디간거니...?
     }
 }

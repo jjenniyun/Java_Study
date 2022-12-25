@@ -21,5 +21,7 @@ public class _02_String2 {
         System.out.println(s1+s2); // JavaPython
         System.out.println(s1+","+s2); // Java,Python
         System.out.println(s1.concat(",").concat(s2)); // Java,Python
+
+        //커밋한게 어디간거니...?
     }
 }

@@ -22,5 +22,7 @@ public class _06_WhenToUse {
 
         // 4의 2승을 구하기
         System.out.println(getPower(4,2)); // 4*4 = 16
+
+        //커밋한게 어디간거니...?
     }
 }

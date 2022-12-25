@@ -47,6 +47,6 @@ public class _01_Array {
         double[] d = new double[] {10.0, 11.2, 13.5};
         boolean[] b = {true, true, false};
 
-        // 왜 수정해서 commit하면 그 전에 있던 파일들은 사라져 있냐!!!!!!!
+        //커밋한게 어디간거니...?
     }
 }

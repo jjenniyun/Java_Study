@@ -12,5 +12,6 @@ public class _01_Method {
         sayHello();
         sayHello();
         System.out.println("메소드 호출 후");
+        //커밋한게 어디간거니...?
     }
 }

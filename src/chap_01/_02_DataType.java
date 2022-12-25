@@ -11,5 +11,6 @@ public class _02_DataType {
         System.out.println(false);
 
         System.out.println(123+234);
+        //커밋한게 어디간거니...?
     }
 }
