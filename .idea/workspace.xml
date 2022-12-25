@@ -4,9 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="프로젝트 다시 복구!!(22.12.25)(5)">
+    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="4-11 내용수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_04/_11_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_04/_11_Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_01_HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_02_DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_03_Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_04_Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_05_VariableNaming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_06_Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_07_TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_Quiz_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_01_Operator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_02_Operator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_03_Operator3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_04_Operator4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_05_Operator5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_02/_Quiz_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_01_String1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_02_String2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_03_StringCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_Quiz_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_01_If.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_02_Else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_03_ElseIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_04_SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_05_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_06_While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_07_DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_08_NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_09_MultipleTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_10_Break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_11_Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_04/_Quiz_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_05/_01_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_05/_02_ArrayLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/hyj/Desktop/JavaWorkspace/src",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -133,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671948297444</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4-11 내용수정">
+      <created>1671948851324</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671948851324</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +193,7 @@
     <MESSAGE value="프로젝트 복구함(22.12.25)(3)" />
     <MESSAGE value="프로젝트 다시 복구중(22.12.25)(4)" />
     <MESSAGE value="프로젝트 다시 복구!!(22.12.25)(5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로젝트 다시 복구!!(22.12.25)(5)" />
+    <MESSAGE value="4-11 내용수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-11 내용수정" />
   </component>
 </project>
