@@ -11,6 +11,7 @@ public class _08_Constructor {
         b1.color = "블랙";
         System.out.println(b1.modelName);
         System.out.println(b1.serialNumber);
+
         System.out.println("-------------------------");
 
         BlackBox b2 = new BlackBox("하양이", "UHD",300000,"화이트");
