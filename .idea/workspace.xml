@@ -4,28 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="클래스 시작(23.01.05)">
-      <change afterPath="$PROJECT_DIR$/src/chap_07/BlackBoxRefurbish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_09_GetterSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_10_AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_11_Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_12_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_13_MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_14_Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_15_Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_16_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_17_Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_18_Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/_Quiz_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/ActionCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/FactoryCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/SlowActionCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_07/camera/SpeedCam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_08/_00_AccessModifierTest.java" afterDir="false" />
+    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="클래스 마무리(23.01.05)">
+      <change afterPath="$PROJECT_DIR$/src/chap_08/Camera/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/Camera/FactoryCam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/Camera/SpeedCam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/_01_AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/_02_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/_Quiz_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/detector/AccidentDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/detector/AdvancedFireDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/detector/Detectable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/detector/FireDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/reporter/NormalReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/reporter/Reportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_08/reporter/VideoReporter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_07/BlackBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_07/BlackBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_07/_08_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_07/_08_Constructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -201,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672889301924</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="클래스 마무리(23.01.05)">
+      <created>1672907403418</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672907403418</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +229,7 @@
     <MESSAGE value="커밋한게 계속 없어짐...와이라노;;;;" />
     <MESSAGE value="메소드 마무리(22.12.26)" />
     <MESSAGE value="클래스 시작(23.01.05)" />
-    <option name="LAST_COMMIT_MESSAGE" value="클래스 시작(23.01.05)" />
+    <MESSAGE value="클래스 마무리(23.01.05)" />
+    <option name="LAST_COMMIT_MESSAGE" value="클래스 마무리(23.01.05)" />
   </component>
 </project>
