@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="예외처리 마무리(23.01.07)">
-      <change afterPath="$PROJECT_DIR$/src/chap_12/_02_Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/_03_Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/_04_MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/_05_Synchronization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/_Quiz_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/CleanRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/CleanThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_12/clean/Room.java" afterDir="false" />
+    <list default="true" id="07b3c6d0-a6ff-4693-82f8-7400efd2acb7" name="Changes" comment="Thread(쓰레드) 마무리(23.01.08)">
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_01_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_02_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_03_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_04_Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_05_FileAndFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_06_ReadWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_07_DeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/_Quiz_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_13/saying.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_12/_01_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_12/_01_Thread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673093964865</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Thread(쓰레드) 마무리(23.01.08)">
+      <created>1673178186295</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673178186295</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +265,7 @@
     <MESSAGE value="제네릭스 마무리(23.01.06)" />
     <MESSAGE value="익명클래스, 람다와 스트림 마무리(23.01.07)" />
     <MESSAGE value="예외처리 마무리(23.01.07)" />
-    <option name="LAST_COMMIT_MESSAGE" value="예외처리 마무리(23.01.07)" />
+    <MESSAGE value="Thread(쓰레드) 마무리(23.01.08)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread(쓰레드) 마무리(23.01.08)" />
   </component>
 </project>
