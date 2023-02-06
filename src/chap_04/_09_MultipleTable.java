@@ -8,7 +8,7 @@ public class _09_MultipleTable {
         // 2*9 = 18
 
         for (int i = 2; i < 10; i++) { // 2단~9단
-            for (int j = 1; j < 10; j++) {
+            for (int j = 1; j < 10; j++) { // 1 ~ 10까지
                 System.out.println(i+" * "+j+" = "+(i * j)); // 2 * 1 = 2
             }
             System.out.println();

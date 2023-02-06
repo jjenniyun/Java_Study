@@ -13,7 +13,7 @@ public class _11_Continue {
             System.out.println(i+"번 손님, 주문하신 치킨 나왔습니다");
 
             // 손님이 없다면? noShow
-            if (i == noShow){
+            if (i == noShow){ // 17번 손님이 noshow 라면
                 System.out.println(i+"번 손님, 노쇼로 인해 다음 손님에게 기회가 넘어갑니다.");
                 continue;
             }
@@ -25,10 +25,10 @@ public class _11_Continue {
         }
         System.out.println("영업을 종료합니다.");
 
-        System.out.println("-----------------------------------");
+        System.out.println("----------------예시 # 1-------------------");
 
         // While 문
-        sold = 0;
+        sold = 0; // sold 초기화
         int index = 0; // 손님 번호
         //while (index < 50){
         while (true){

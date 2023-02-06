@@ -15,7 +15,7 @@ public class _10_Break {
             }
         }
         System.out.println("영업을 종료합니다.");
-        System.out.println("---------------------------------");
+        System.out.println("---------------주문방법 # 1------------------");
 
         // While 문
         int index = 1; // 손님 대기 번호
@@ -23,7 +23,7 @@ public class _10_Break {
             System.out.println(index+"번 손님, 주문하신 치킨 나왔습니다.");
             if (index == max){
                 System.out.println("금일 재료가 모두 소진되었습니다.");
-                // break
+                break;
             }
             index++;
         }

@@ -11,9 +11,9 @@ public class _04_MultiArrayLoop {
 
         for (int i = 0; i < 3; i++) { // 세로
             for (int j = 0; j < 5; j++) { // 가로
-                System.out.print(seats[i][j]+" ");
+                System.out.print(seats[i][j]+" "); // A1 A2 A3 ..
             }
-            System.out.println();
+            System.out.println(); // 줄바꿈
         }
         System.out.println("-----------------------------------");
 
@@ -30,11 +30,13 @@ public class _04_MultiArrayLoop {
             System.out.println();
         }
         System.out.println("----------------------------------------");
+
+        // 다차원 배열
         // 세로 크기 10 * 가로크기 15에 해당하는 영화관 좌석
-        String[][] seats3 = new String[10][15];
+        String[][] seats3 = new String[10][15]; // 배열 선언
         String[] eng = {"A","B","C","D","E","F","G","H","I","J"};
         for (int i = 0; i < seats3.length; i++) { // 세로
-            for (int j = 0; j < seats3[i].length; j++) {
+            for (int j = 0; j < seats3[i].length; j++) { // 가로
                 seats3[i][j] = eng[i]+(j+1);
             }
         }
